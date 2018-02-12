@@ -1,1 +1,1 @@
-# leartHTML
+# learnHTML
